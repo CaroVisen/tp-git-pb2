@@ -23,6 +23,6 @@ restar /n 3 para multiplicar /n 4 para dividir");
  }else{
  resultado = a / b;
  }
- System.out.println("El resultado es " + resultado.toString());
+ System.out.println("El resultado es: " + resultado.toString());
  }
 }
