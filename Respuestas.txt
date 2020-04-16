@@ -1,0 +1,16 @@
+Respuestas PB2-TP1
+
+5) Respuestas:
+
+    a. El segundo push sobrescribió el código que se encontraba en el repositorio remoto en la rama master.
+	b. Antes de realizar el push, se debe realizar un merge.
+	c. La estrategia que proponemos es, antes de cada push se debe realizar un commit, luego un pull, otro commit y por último el push.
+
+
+6) Al especificar el parámetro -b, se crea un nuevo Branch.
+
+9) Respuestas:
+    a. La diferencia que podemos notar en el proceso es que se trabaja más ordenado.
+    b. Estrategias para evitar conflictos:
+        Dividir bien el trabajo y no modificar los mismos archivos.
+        Realizar los pull correspondientes antes de realizar un cambio o realizar los merge correspondientes antes de realizar un push a una rama compartida.
